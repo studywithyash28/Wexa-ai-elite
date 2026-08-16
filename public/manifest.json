@@ -1,0 +1,23 @@
+{
+  "short_name": "Wexa AI",
+  "name": "Wexa AI — Autonomous Financial Agent",
+  "description": "Wexa is an autonomous AI agent that actively manages and executes your money decisions in production.",
+  "icons": [
+    {
+      "src": "/wexa-avatar.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait"
+}
